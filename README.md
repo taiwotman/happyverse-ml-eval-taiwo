@@ -63,6 +63,5 @@ OR
 
 
 ## For addition support
-Contact: Taiwo Adetiloye  
-Email: taiwo.adetiloye@gmail.com
+Contact: Taiwo Adetiloye
 
