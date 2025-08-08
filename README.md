@@ -1,4 +1,4 @@
-"""
+
 # Happyverse ML Evaluation System
 
 ## Overview
@@ -9,6 +9,16 @@ This repository implements a prototype evaluation pipeline for analyzing intervi
 - OpenAI GPT-4 (as LLM backend)
 - Pandas / Matplotlib (for data/slide visuals)
 - Streamlit (optional UI)
+
+## Dependencies
+![Python](https://img.shields.io/badge/Python-v3.11-blue.svg?logo=python&longCache=true&logoColor=white&colorB=5e81ac&style=flat-square&colorA=4c566a)
+![LangChain](https://img.shields.io/badge/LangChain-v0.1.20-blue.svg?logo=chainlink&longCache=true&style=flat-square&logoColor=white&colorB=5e81ac&colorA=4c566a)
+![OpenAI](https://img.shields.io/badge/OpenAI-v1.25.0-blue.svg?logo=openai&longCache=true&style=flat-square&logoColor=white&colorB=5e81ac&colorA=4c566a)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-v3.8.4-blue.svg?logo=python&longCache=true&style=flat-square&logoColor=white&colorB=5e81ac&colorA=4c566a)
+![Pandas](https://img.shields.io/badge/Pandas-v2.2.2-blue.svg?logo=pandas&longCache=true&style=flat-square&logoColor=white&colorB=5e81ac&colorA=4c566a)
+![Streamlit](https://img.shields.io/badge/Streamlit-v1.34.0-blue.svg?logo=streamlit&longCache=true&style=flat-square&logoColor=white&colorB=5e81ac&colorA=4c566a)
+![Jupyter](https://img.shields.io/badge/Jupyter-v1.1.1-blue.svg?logo=jupyter&longCache=true&style=flat-square&logoColor=white&colorB=5e81ac&colorA=4c566a)
+
 
 ## Key Modules
 - **Transcript Evaluator**: Uses prompt templates and structured parsing to assess candidate answers.
@@ -50,8 +60,8 @@ OR
 
 - Run notebook: `notebooks/prototype_eval.ipynb`
 
----
+
 ## For addition support
 Contact: Taiwo Adetiloye  
 Email: taiwo.adetiloye@gmail.com
-"""
+
