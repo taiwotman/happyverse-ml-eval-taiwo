@@ -8,6 +8,7 @@ This repository implements a prototype evaluation pipeline for analyzing intervi
 - LangChain (for agent orchestration)
 - OpenAI GPT-4 (as LLM backend)
 - Pandas / Matplotlib (for data/slide visuals)
+- Jupyter Notebook (to run the file in notenooks/)
 - Streamlit (optional UI)
 
 ## Dependencies
