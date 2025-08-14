@@ -8,7 +8,7 @@ This repository implements a prototype evaluation pipeline for analyzing intervi
 - LangChain (for agent orchestration)
 - OpenAI GPT-4 (as LLM backend)
 - Pandas / Matplotlib (for data/slide visuals)
-- Jupyter Notebook (to run the file in notenooks/)
+- Jupyter Notebook (to run the file(s) in notebooks/)
 - Streamlit (optional UI)
 
 ## Dependencies
@@ -55,13 +55,13 @@ python src/eval_pipeline.py
 OR 
 ## Follow these steps to run in Jupyter Notebook
 
-- Assumption: For sys path compatibility use: `MAC Os`.   
+- Assumption: For system path compatibility use: `MAC Os`.   
 
 - Start Juypter notebook on Terminal: `jupyter notebook` and open in browser
 
 - Run notebook: `notebooks/prototype_eval.ipynb`
 
 
-## For addition support
-Contact: Taiwo Adetiloye
+## For additional support
+Contact: Taiwo O. Adetiloye
 
